@@ -23,7 +23,7 @@ const rumman = {
   location    : "New Delhi, India 🇮🇳",
   currentWork : "Fund raising app with payment gateway integration",
   contact     : "rummanalam.dev@gmail.com",
-  openTo      : ["Freelance", "Collaboration", "Full-time roles", "Interships"]
+  openTo      : ["Freelance", "Collaboration", "Full-time roles", "Internships"]
 };
 ```
 

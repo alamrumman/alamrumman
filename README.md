@@ -78,6 +78,9 @@ const rumman = {
        <a href="https://github.com/alamrumman/Fund-raiser-app">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
+      <a href="https://vimeo.com/1167502185?share=copy&fl=sv&fe=ci">
+        <img src="https://img.shields.io/badge/Vimeo-1AB7EA?style=flat-square&logo=vimeo&logoColor=white" />
+      </a>
     </td>
     <td width="50%" valign="top">
       <h3>🎨 Scribble.io Clone</h3>
@@ -98,6 +101,28 @@ const rumman = {
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+  <h3>🔄 NovaCorp Workflow Engine</h3>
+  <p>A production-grade <strong>multi-stage approval workflow system</strong> — built on Payload CMS v3 with dynamic step routing, conditional logic, role-based access, and an immutable audit trail.</p>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Payload_CMS-000000?style=flat-square&logo=payloadcms&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white" />
+  </p>
+  <a href="https://payload-cms-green.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/alamrumman/Payload-CMS">
+    <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.loom.com/share/644d891aaf044880b427bce656ca249d">
+  <img src="https://img.shields.io/badge/Loom-625DF5?style=flat-square&logo=loom&logoColor=white" />
+</a>    
+</td>
     <td width="50%" valign="top">
       <h3>📊 1Fi EMI Platform</h3>
       <p>A smart <strong>EMI platform</strong> that enables users to buy products using mutual fund backed loans — bridging fintech and investment.</p>
